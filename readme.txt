@@ -7,3 +7,8 @@ I have to try again...
 零零落落
 
 上的浪费
+
+
+function ss(){
+    alert(123);
+}
